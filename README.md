@@ -29,6 +29,7 @@ Incorporo **IA generativa ao meu fluxo de engenharia**: trabalho com Claude, Gem
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
+| [**agente-suporte-ia**](https://github.com/MynsSantos/agente-suporte-ia) | Agente de IA que atende a fila de chamados de acesso com guardrails: simular antes de executar, autonomia por etapas e humano no circuito | Python · Claude (tool use) · pytest |
 | [**leitor-boletos-pdf**](https://github.com/MynsSantos/leitor-boletos-pdf) | Extrai a linha digitável de boletos em PDF e valida todos os dígitos verificadores (FEBRABAN) antes do pagamento | Python · PyMuPDF · pytest |
 | [**extrator-pdf-ia**](https://github.com/MynsSantos/extrator-pdf-ia) | Transforma PDFs não estruturados em JSON validado, com LLM + Pydantic e autocorreção | Python · Anthropic API · Pydantic |
 | [**conciliacao-retencoes**](https://github.com/MynsSantos/conciliacao-retencoes) | Confere ISS, INSS, IRRF e CSRF das notas × contas a pagar e entrega o Excel de divergências | pandas · FastAPI · xlsxwriter |
