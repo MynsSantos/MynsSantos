@@ -23,6 +23,8 @@ Especialista em automação de processos com **3+ anos** de atuação de ponta a
 
 Atuo em áreas críticas, como **Financeiro, Contabilidade, Jurídico e Facilities**, com arquiteturas híbridas (Python + Power Platform) pensadas para durar: tratamento de exceções, alertas preventivos e robôs que se adaptam às mudanças de processo sem parar a operação.
 
+Incorporo **IA generativa ao meu fluxo de engenharia**: trabalho com Claude, Gemini e ChatGPT por meio de agentes e skills personalizadas, o que acelera prototipação, documentação e testes sem abrir mão de qualidade e governança.
+
 ### 🚀 Projetos em destaque
 
 | Projeto | O que resolve | Stack |
@@ -48,11 +50,15 @@ Atuo em áreas críticas, como **Financeiro, Contabilidade, Jurídico e Faciliti
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint">
   <img src="https://img.shields.io/badge/BPMN-FF6F00?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="BPMN">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT">
 </p>
 
 ### 📐 Como eu trabalho
 
 - **Processo antes do código**: mapeio o AS-IS em BPMN, encontro o gargalo e, quando o processo ainda é manual ou repetitivo, desenho a jornada TO-BE antes de automatizar
 - **Código em camadas e testado**: services, models e controllers separados, com testes em pytest
+- **IA como aceleradora, com responsabilidade**: uso agentes e skills (Claude, Gemini, ChatGPT) para ganhar velocidade em análise, código, testes e documentação; todo resultado passa por revisão técnica e testes automatizados, e nenhum dado sensível é compartilhado com as ferramentas
 - **Segurança primeiro**: credenciais em `.env`, dados sensíveis fora do Git e varredura antes de publicar
 - **Feito para quem usa**: relatórios em Excel que o analista abre e entende, e alertas no Teams quando algo foge da regra
