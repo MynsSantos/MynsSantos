@@ -52,7 +52,7 @@ Atuo em áreas críticas, como **Financeiro, Contabilidade, Jurídico e Faciliti
 
 ### 📐 Como eu trabalho
 
-- **Processo antes do código**: mapeio o AS-IS em BPMN, encontro o gargalo e só então automatizo
+- **Processo antes do código**: mapeio o AS-IS em BPMN, encontro o gargalo e, quando o processo ainda é manual ou repetitivo, desenho a jornada TO-BE antes de automatizar
 - **Código em camadas e testado**: services, models e controllers separados, com testes em pytest
 - **Segurança primeiro**: credenciais em `.env`, dados sensíveis fora do Git e varredura antes de publicar
 - **Feito para quem usa**: relatórios em Excel que o analista abre e entende, e alertas no Teams quando algo foge da regra
